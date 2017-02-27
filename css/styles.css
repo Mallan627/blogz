@@ -5,6 +5,11 @@ body {
     padding: 10px;
 }
 
+.post-author {
+    font-style: italic;
+    font-size: 12px;
+}
+
 .error {
     color: red;
 }
